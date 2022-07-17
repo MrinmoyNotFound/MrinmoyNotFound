@@ -3,4 +3,4 @@
 - 🤣 Fun Fact about me
     - No can can pronounce my name "Mrinmoy"
 - 😅 Randomly joined coding world
-    - That time i don't have any idea about coding and without learning python I started building one discord bot by watching YouTube videos
+    - At that time I had no idea about coding and without learning Python I started building a Discord bot by watching YouTube videos.
